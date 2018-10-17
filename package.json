@@ -1,0 +1,26 @@
+{
+  "name": "testjest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakoningii/HelloWorld.git"
+  },
+  "author": "Hakon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hakoningii/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/hakoningii/HelloWorld#readme",
+  "devDependencies": {
+    "express": "^4.16.3",
+    "jest": "^23.6.0",
+    "supertest": "^3.3.0"
+  },
+  "dependencies": {}
+}
